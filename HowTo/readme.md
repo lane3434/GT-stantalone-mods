@@ -81,6 +81,9 @@ Welcome, fearless modders and mischief-makers! Ready to swap out your vanilla Go
   Verify that your APK file is the correct version. If things go haywire, try reinstalling—because sometimes mods need a second chance. 
 - **Other Issues?**  
   When all else fails, restart both your Oculus Quest and computer. Then, channel your inner zen and try again.
+- **Dont have a PC/Laptop?**
+  - I would not reccomend researching this yourself as all of them seem sketchy.
+  - Will update this if solution is found!
 - **More Help?**
  - If all else fails report an issue on github.
  
