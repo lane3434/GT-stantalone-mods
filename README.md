@@ -4,6 +4,7 @@
 Deep in the wild jungle of code, modding can be as tricky as teaching a banana to peel itself. But never fear—this cheeky chimp (a.k.a. Lane) is on the case, ready to swing into action!
 
 ## STATUS
+### 2/17/2025
 - **12:01** Downloaded files from **https://github.com/SkireScripts/GT-Mods** (original creator)
 - **12:02:** Spotted a pesky gremlin monkeying around in the code.
 - **12:05:** Swung into action with a patch that’s more effective than a barrel of bananas.
@@ -17,5 +18,6 @@ Deep in the wild jungle of code, modding can be as tricky as teaching a banana t
 - **7:38:** Updated documentation in `/HowTo/readme.md`.
 - **8:13:** Updated documentation in `/HowTo/readme.md`.
 - **8:24:** Started work on website
+- ### 2/18/2025
 
 Stay tuned for more monkey madness and keep on swinging!
