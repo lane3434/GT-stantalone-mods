@@ -13,5 +13,6 @@ In the wild jungle of updates, modding is now as tricky as teaching a banana to 
 - **1:45:** Rolling out a new patch. (Back in the swing of things!)
 - **1:58:** Files missing in signature. (Looks like some files decided to swing off on their own!)
 - **2:00:** Adding more mods. (More mischief, more fun!)
+- **7:38:** Made documentaion in /HowTo/readme.md
 
 Stay tuned for more monkey madness and keep on swinging!
