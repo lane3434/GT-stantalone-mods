@@ -1,4 +1,6 @@
-# 🐒 Gorilla Tag Standalone Mods – Monkey Business Fixed by Lane! 🐒
+# ALL FIILES ARE MOVING TO CUSTOM WEBSITE!! 
+## This repo will stay as is and lane3434 will not be active any more.
+## The link will be active this week
 
 ## UPDATES
 Deep in the wild jungle of code, modding can be as tricky as teaching a banana to peel itself. But never fear—this cheeky chimp (a.k.a. Lane) is on the case, ready to swing into action!
