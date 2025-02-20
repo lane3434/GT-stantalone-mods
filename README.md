@@ -1,6 +1,3 @@
-# ALL FIILES ARE MOVING TO CUSTOM WEBSITE!! 
-## This repo will stay as is and lane3434 will not be active any more.
-## The link will be active this week
 
 ## UPDATES
 Deep in the wild jungle of code, modding can be as tricky as teaching a banana to peel itself. But never fear—this cheeky chimp (a.k.a. Lane) is on the case, ready to swing into action!
@@ -26,5 +23,6 @@ Deep in the wild jungle of code, modding can be as tricky as teaching a banana t
 - **5:03:** Added a new release with signed APKs.
 - **5:15:** Replied to issues and marked them (keeping the community in the loop).
 - **5:18:** Integrated DDNS into the website—more connectivity for our wild ride!
+- **9:45:** Decompilingg normal gorilla tag to locate issues with public servers
 
 Stay tuned for more monkey madness and keep on swinging!
