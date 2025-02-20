@@ -1,6 +1,6 @@
 ## Website **http://luminalab.duckdns.org:8803/**
 # **NOTICE**
-#  I have ran out of GIT LFS bandwith so I will be focused on making my own custom website to store the files
+#  I have ran out of GIT LFS bandwith so I will be focused on making my own custom website to store the files. This repo is not abandoned.
 ## UPDATES
 Deep in the wild jungle of code, modding can be as tricky as teaching a banana to peel itself. But never fear—this cheeky chimp (a.k.a. Lane) is on the case, ready to swing into action!
 
